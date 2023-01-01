@@ -16,10 +16,3 @@ Iâ€™ve been coding for less than a year and I have learned that coding shouldnâ€
 </p>
                     
                   ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/Vnolxve#2217" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/JG-LxveCode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
